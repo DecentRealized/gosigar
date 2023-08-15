@@ -9,7 +9,7 @@ package gosigar
 #include <mach/mach_init.h>
 #include <mach/mach_host.h>
 #include <mach/host_info.h>
-#include <libproc.h>
+#include "libs/libproc.h"
 #include <mach/processor_info.h>
 #include <mach/vm_map.h>
 */
