@@ -1,4 +1,4 @@
-module github.com/elastic/gosigar
+module github.com/DecentRealized/gosigar
 
 go 1.14
 
