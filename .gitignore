@@ -6,7 +6,6 @@
 # Files
 .DS_Store
 /*.iml
-*.h
 
 # Editor swap files
 *.swp
